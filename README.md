@@ -7,7 +7,7 @@
 
 <h2 align="center">Установка🔧</h2> 
 
-```git
+```cmd
 git clone https://github.com/TrueMajner/DiscordRaidSpamFloodBots
 cd DiscordRaidSpamFloodBots
 npm install
