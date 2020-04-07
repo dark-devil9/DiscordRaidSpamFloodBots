@@ -7,9 +7,10 @@
 
 <h2 align="center">Установка🔧</h2> 
 
-#### Node.js Если у вас уже установлена node.js переместитесь сюда
+##### Node.js
+Если у вас уже установлена node.js переместитесь сюда (*клик*)[https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md#git-clone]
 
-#### Git Clone
+##### Git Clone
 ```cmd
 git clone https://github.com/TrueMajner/DiscordRaidSpamFloodBots
 cd DiscordRaidSpamFloodBots
