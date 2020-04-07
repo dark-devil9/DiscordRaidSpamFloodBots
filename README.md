@@ -22,3 +22,5 @@ git clone https://github.com/TrueMajner/DiscordRaidSpamFloodBots
 cd DiscordRaidSpamFloodBots
 npm install
 ```
+
+<h2 align="center">Использование🏁</h2> 
