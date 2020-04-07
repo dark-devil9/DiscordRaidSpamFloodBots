@@ -8,7 +8,12 @@
 <h2 align="center">Установка🔧</h2> 
 
 ##### Node.js
-Если у вас уже установлена node.js переместитесь сюда [*клик*](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md#git-clone)
+Если у вас уже установлена node.js переместитесь сюда [*клик*](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md#git-clone).  
+Начнём установку NodeJS  
+1. Заходим на [сайт NodeJS](https://nodejs.org/en/)  
+2. Скачиваем Current версию.  
+3. Устанавливаем.  
+Готово, вы установили NodeJS.  
 
 ##### Git Clone
 ```cmd
