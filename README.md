@@ -16,6 +16,7 @@
 Готово, вы установили NodeJS.  
 
 ##### Git Clone
+Введите это в консоль. 
 ```cmd
 git clone https://github.com/TrueMajner/DiscordRaidSpamFloodBots
 cd DiscordRaidSpamFloodBots
