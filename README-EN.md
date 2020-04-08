@@ -16,26 +16,26 @@ Let's start the installation of NodeJS
 Done, you have installed NodeJS.
 
 ##### Git Clone
-Введите это в консоль. 
+Write it in console.
 ```cmd
 git clone https://github.com/TrueMajner/DiscordRaidSpamFloodBots
 cd DiscordRaidSpamFloodBots
 npm install
 ```
 
-<h2 align="center">Использование🏁</h2> 
+<h2 align="center">How to use it🏁</h2> 
 
-Создайте файл tokens.txt в директории репозитория.  
-Поместите в него токены аккаунтов для спама / флуда.  
-Зайдите в файл settings.json.  
+Create file tokens.txt in repository directory.  
+Add tokens to spam bots tokens.txt file.
+Open file settings.json.  
   
-В параметре "invite" укажите ссылку на сервер для атаки.  
-В параметре "text" укажите текст сообщений.  
-В параметре "tts" укажите использовать ли tts (true/false).  
-В параметре "count" укажите максимальное кол-во ботов для атаки (0 - нет ограничений)  
-В параметре "log" укажите логировать ли кол-во сообщений отправленное ботами (true/false)  
+In parameter "invite" set spam server link.  
+In parameter "text" set messages text.  
+In parameter "tts" set should to use tts or not (true / false).
+In parameter "count" set the maximum number of bots to attack (0 - no limit)
+In parameter "log" set should bot to log the number of messages sent by bots (true / false)
   
-Запустите.  
+Start it.  
 ```node
 node main.js
 ```
