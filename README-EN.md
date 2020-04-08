@@ -39,8 +39,8 @@ Start it.
 ```node
 node main.js
 ```
-Наслаждайтесь.  
+Enjoy.  
 
-<h2 align="center">Отблагодарить меня :)</h2> 
+<h2 align="center">Thank me :)</h2> 
 ~~Завтра тут будет киви~~
 
