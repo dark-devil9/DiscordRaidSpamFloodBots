@@ -42,6 +42,7 @@ Start it.
 ```node
 node main.js
 ```
+Write something in the chat and the spam attack will start.  
 Enjoy.  
 
 <h2 align="center">Thank me :)</h2> 
