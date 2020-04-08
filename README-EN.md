@@ -30,7 +30,7 @@ npm install
 
 Create file tokens.txt in repository directory.  
 Add tokens to spam bots tokens.txt file.
-Open file settings.json.  
+Open file config.json.  
   
 In parameter "invite" set spam server link.  
 In parameter "text" set messages text.  
