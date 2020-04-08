@@ -32,7 +32,7 @@ Create file tokens.txt in repository directory.
 Add tokens to spam bots tokens.txt file.
 Open file config.json.  
   
-In parameter "invite" set spam server link.  
+In parameter "invite" set spam server invite code (NOT LINK).  
 In parameter "text" set messages text.  
 In parameter "tts" set should to use tts or not (true / false).
 In parameter "count" set the maximum number of bots to attack (0 - no limit)
