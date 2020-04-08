@@ -1,6 +1,6 @@
 <h2 align="center">DiscordRaidMachine</h2> 
 
-<h1 align="center">[ENGLISH VERSION]()</h1> 
+<h1 align="center">[ENGLISH VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README-EN.md)</h1> 
 
 <h2 align="center">Зачем?🤔</h2> 
 
