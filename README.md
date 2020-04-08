@@ -1,8 +1,8 @@
 <h2 align="center">DiscordRaidMachine</h2> 
 
-[RUSSIAN VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md)
-[ENGLISH VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README-EN.md)
-
+[RUSSIAN VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md)  
+[ENGLISH VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README-EN.md)  
+  
 <h2 align="center">Зачем?🤔</h2> 
 
 Если вам кто-то не нравится вы можете зарейдить его сервер и он будет страдать :)  
