@@ -3,17 +3,17 @@
 <h2 align="center">Why do I need it??🤔</h2> 
 
 If you do not like someone, you can raid his server and he will suffer :)  
-~~Я не призываю рейдить дискорд сервера, это карается DiscordTOS. Спасибо за внимание!~~  
+~~All material in this repository is for informational purposes only. Spam, flood, raiding, prohibited by DiscordTOS!~~
 
-<h2 align="center">Установка🔧</h2> 
+<h2 align="center">Installing🔧</h2> 
 
 ##### Node.js
-Если у вас уже установлена node.js переместитесь сюда [*клик*](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md#git-clone).  
-Начнём установку NodeJS  
-1. Заходим на [сайт NodeJS](https://nodejs.org/en/)  
-2. Скачиваем Current версию.  
-3. Устанавливаем.  
-Готово, вы установили NodeJS.  
+If you already have installed node.js move down [*click*](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md#git-clone).  
+Let's start the installation of NodeJS
+1. Open [NodeJS website](https://nodejs.org/en/)  
+2. Download Current version.  
+3. Install it.  
+Done, you have installed NodeJS.
 
 ##### Git Clone
 Введите это в консоль. 
