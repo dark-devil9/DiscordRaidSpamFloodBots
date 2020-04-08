@@ -1,5 +1,8 @@
 <h2 align="center">DiscordRaidMachine</h2> 
 
+[RUSSIAN VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README.md)  
+[ENGLISH VERSION](https://github.com/TrueMajner/DiscordRaidSpamFloodBots/blob/master/README-EN.md)  
+  
 <h2 align="center">Why do I need it??🤔</h2> 
 
 If you do not like someone, you can raid his server and he will suffer :)  
