@@ -1,0 +1,9 @@
+{
+  "invite" : "INVITE CODE NOT LINK",
+  "text" : "Some text",
+  "guildid" : "ID",
+  "channel" : "ID",
+  "tts" : "false",
+  "count" : 0,
+  "log" : false
+}
