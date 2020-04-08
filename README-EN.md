@@ -38,7 +38,7 @@ In parameter "channel" set which channel on the server for attack.
 In parameter "text" set messages text.  
 In parameter "tts" set should to use tts or not (true / false).  
 In parameter "count" set the maximum number of bots to attack (0 - no limit)  
-In parameter "log" set should bot to log the number of messages sent by bots (true / false)  
+In parameter "log" set should bot to log the number of errors in messages sent process. (true / false) (IN DEVELOP)  
   
 Start it.  
 ```node
