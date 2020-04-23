@@ -19,11 +19,11 @@ async function authorizate(i){
       }
     })
   }).catch(function(e) {
-    return "err";
+    return "err"; //Будет использоваться в будущем.
   })
 }
 
 for (var i = 0; i < tokens.length; i++) {
     if(i+1==config.count) break;
-    if(await authorizate(i) == "err") console.log("client " + i + " dont work\n");
+    authorizate(i); 
 }
